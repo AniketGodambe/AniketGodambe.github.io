@@ -62028,7 +62028,7 @@ return new A.lA(new A.vf(b.b,s),"Aniket Godambe",A.aht(s,A.ad5(s,A.fT(s,s,s,s,s,
 $S:364}
 A.vf.prototype={
 an(){var s=new A.FP($,!0,!1,new A.hk(A.a([],t.pM),t.yY),A.y(t.FE,t.sF))
-s.nD$="projects"
+s.nD$="home"
 return new A.LJ(s,B.j)}}
 A.LJ.prototype={
 P(a){var s,r,q,p,o,n=this,m=null,l="Follow Me",k=n.a.c<600?A.jz(B.AM,B.Z,B.a8):A.mg(B.zq,B.eT,B.a8,B.b1)
