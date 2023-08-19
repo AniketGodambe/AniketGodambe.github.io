@@ -1,6 +1,6 @@
 {
-    "name": "profileapp",
-    "short_name": "profileapp",
+    "name": "web_profile",
+    "short_name": "web_profile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
