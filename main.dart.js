@@ -33917,7 +33917,7 @@ A.a7J.prototype={
 $0(){var s=this.a,r=s.e
 r=J.f(r.gn(r),"about")?B.a1:B.S
 s.a.toString
-return A.nH(new A.h5("Profile",new A.a7F(s),r,null),0)},
+return A.nH(new A.h5("About",new A.a7F(s),r,null),0)},
 $S:58}
 A.a7F.prototype={
 $0(){var s=this.a
